@@ -1,5 +1,5 @@
-# Gaze-Project
-Gaze project for ML course in SJTU. 
+# Attack-Project
+Adversarial Attack project for ML course in SJTU. 
 
 ### Overview
 The Gaze project consists of a white-box attack task and a black-box attack task. The target model include CNN and ViT neural networks. The test data includes 1000 sampled images from ImageNet validate datasets.   

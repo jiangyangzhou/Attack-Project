@@ -19,7 +19,7 @@ model.eval()
 ```
 
 #### Datasets 
-Find datasets in [Baidu Wangpan](https://pan.baidu.com/s/1--gi2rJagnGZ3kcY5vQKQg)(Password:r4z6) and [Google Drive](https://drive.google.com/file/d/11DHdogeJbunThQMP8PgORO7kcOggPSD-/view?usp=sharing).
+Find datasets in [Baidu Wangpan](https://pan.baidu.com/s/1nt5guRByhu-hVo-98fj0SA) (Password：wawy) and  [Google Drive](https://drive.google.com/file/d/1wMpxCPfloy13UlYxhFxM_5fn7Rr2kEPm/view?usp=sharing).
 
 ### Reference 
 1. Intriguing Properties of Vision Transformers [pdf](https://proceedings.neurips.cc/paper/2021/file/c404a5adbf90e09631678b13b05d9d7a-Paper.pdf)
